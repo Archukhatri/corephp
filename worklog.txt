@@ -1,0 +1,6 @@
+001//the first step
+002//datatypes and more
+003//control structure
+004//custom functions
+005//php built in function
+006//how to use form data in php with validation
