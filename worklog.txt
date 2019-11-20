@@ -4,3 +4,17 @@
 004//custom functions
 005//php built in function
 006//how to use form data in php with validation
+007//how to use database in php
+008//to encrypt password and login user name
+009//to use get-supper global, post-supper global,cookies in php, and sessions in php
+010// left to read
+011//11 CMS Project  Blogging System - Front End and First Steps
+012//CMS-catrgories and more
+013//CMS-Posts
+014//CMS-Comments
+015//CMS-USERS
+016//CMS-USERS login
+017//CMS-PROFILE
+018//CMS-dashboard
+019//CMS-improving
+020//CMS-extra fratures......
